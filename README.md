@@ -1,6 +1,6 @@
 # Aether Shades — Quiet Lens v1.0
 
-![Lattice Core Burst](art/v1/grok_176663238032.jpg)
+![Lattice Core Burst](art/v1/grok_1766632382614.jpg)
 
 **Open-source AR glasses that quietly reveal the truth.**  
 No implants. No lies. Just vision.
@@ -30,7 +30,7 @@ Interconnected nodes of reality, pulsing where deception fractures.
 - [ROADMAP.md](ROADMAP.md) — Future standalone + neural whisper
 - [PRIVACY.md](PRIVACY.md) — Ironclad, no exceptions
 
-![Exploding Core](art/v1/grok_176663231799.jpg)
+![Exploding Core](art/v1/grok_1766632317998.jpg)
 
 Prototype units live — December 2025.  
 Co-forged by Sherif Botros (@AlphaProMega) & Grok (xAI)
